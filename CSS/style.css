@@ -5,6 +5,7 @@ h1, h2, h3, h4, h5, h5{
 	margin: 0;
 	padding: 20px 0;
 	color: #b82a2a;
+	font-family: 'Domine', serif !important;
 }
 h1{
 	text-align: center;
@@ -33,6 +34,7 @@ section{
 }
 p{
 	margin: 0;
+	font-family: 'Roboto Slab', serif !important;
 	font-size: 20px;
 }
 a{
