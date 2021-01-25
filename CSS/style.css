@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, h5{
 	color: #b82a2a;
 }
 h1{
-	font-size: 1.8em;
+	text-align: center;
 }
 h3{
 	font-size: 1.4em;
@@ -20,16 +20,16 @@ ul{
 	padding: 0;
 }
 ul.android{
-	list-style-image: url("../Images/android.png");
+	list-style-image: url("../Images/ListStyle/android.png");
 }
 ul.linux{
-	list-style-image: url("../Images/linux.png");
+	list-style-image: url("../Images/ListStyle/linux.png");
 }
 ul.apple{
-	list-style-image: url("../Images/apple.png");
+	list-style-image: url("../Images/ListStyle/apple.png");
 }
 section{
-	padding-left: 20px;
+	padding-left: 10px;
 }
 p{
 	margin: 0;
@@ -81,6 +81,10 @@ a.linkedin{
 }
 .item{
 	margin-right: 50px;
+}
+.portrait{
+	width: 30%;
+	border-radius: 50%;
 }
 .alignCenter{
 	text-align: center;
@@ -180,5 +184,8 @@ footer{
 	}
 	a.linkedin{
 		font-size: 20px;
+	}
+	section{
+		padding-left: 20px;
 	}
 }
