@@ -34,8 +34,11 @@ section{
 }
 p{
 	margin: 0;
-	font-family: 'Roboto Slab', serif !important;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 20px;
+}
+ul li{
+	font-family: 'Roboto Condensed', sans-serif;
 }
 a{
 	text-decoration: none;
