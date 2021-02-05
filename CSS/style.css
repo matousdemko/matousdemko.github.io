@@ -87,8 +87,11 @@ a.linkedin{
 .item{
 	margin-right: 50px;
 }
+.portraitP{
+	text-align: center;
+}
 .portrait{
-	width: 30%;
+	width: 40%;
 	border-radius: 50%;
 }
 .alignCenter{
@@ -183,6 +186,9 @@ footer{
 	}
 	.copyright{
 		float: right;
+	}
+	.portrait{
+		width: 30%;
 	}
 	.stCopy{
 		margin-right: 3px;
